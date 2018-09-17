@@ -1,4 +1,4 @@
-package com.imagefromlayout.abiramee.imagefromlayout;
+package com.abiramee.imagefromlayout;
 
 public interface Format {
     public static final String PNG = ".png";

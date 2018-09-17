@@ -1,4 +1,4 @@
-package com.imagefromlayout.abiramee.imagefromlayout;
+package com.abiramee.imagefromlayout;
 
 import android.content.Context;
 import android.content.ContextWrapper;
